@@ -1,0 +1,4 @@
+# Visual Studio'nun geçici dosyaları ve ayarları
+.vs/
+*.user
+*.suo
